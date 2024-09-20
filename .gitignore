@@ -31,3 +31,4 @@ node_modules/
 ### Others ###
 .vitepress/cache/
 .vitepress/dist/
+.vitepress/config.js.*
