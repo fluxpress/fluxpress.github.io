@@ -34,4 +34,4 @@ npx fluxpress generate
 npx fluxpress preview
 ```
 
-你现在应该已经可以在 http://localhost:9895 预览到你的站点了！
+你现在应该已经可以在 `http://localhost:9895` 预览到你的站点了！
