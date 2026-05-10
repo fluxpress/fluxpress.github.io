@@ -124,4 +124,4 @@ npx fluxpress generate
 npx fluxpress preview
 ```
 
-访问 [http://localhost:9895](http://localhost:9895) 即可看到你的站点。
+访问 `http://localhost:9895` 即可看到你的站点。

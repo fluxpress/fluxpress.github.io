@@ -96,7 +96,7 @@ fluxpress preview
 
 **默认端口**: `9895`
 
-启动后访问 [http://localhost:9895](http://localhost:9895) 即可预览站点。
+启动后访问 `http://localhost:9895` 即可预览站点。
 
 ::: tip
 `preview` 命令仅用于本地预览，不会自动监听文件变化并重新生成。如需修改后自动更新，需手动重新执行 `fluxpress generate`。
